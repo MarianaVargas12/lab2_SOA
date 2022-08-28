@@ -1,5 +1,5 @@
 variable "project_id" {
-    default = "lab2mariana"
+    default = "zinc-forge-360817"
 }
 
 variable "region" {
